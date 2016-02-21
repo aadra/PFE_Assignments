@@ -1,0 +1,91 @@
+.menuitem{
+	height: 20px;
+	width: 70px;
+	padding-left: 5px;
+	padding-top: 5px;
+	margin: 5px;
+	border: black 1px solid; 
+	float: left;
+}
+
+#container{
+	border: black 1px solid; 
+	overflow: hidden; 
+}
+
+
+#header{
+	overflow: hidden;
+	border: black 1px solid; 
+	/* <!--overflow: hidden; */
+	padding: 5px 5px 5px 5px;
+}
+
+#bodycontent{
+	clear:both;
+	border: black 1px solid; 
+	/* <!--overflow: hidden; */
+	padding: 5px 5px 30px 5px;
+}
+
+#banner{
+	height:70px;
+	border: black 1px solid; 
+	border-top-style: 2px;
+	padding: 5px 5px 5px 5px;
+	margin: 0px 5px 0px 5px;
+}
+
+#featurestrip{
+	height:70px;
+	border: black 1px solid; 
+	border-top-style: 2px;
+	padding: 5px 5px 5px 5px;
+	margin: 0px 5px 0px 5px;
+}
+
+#corefeatures{
+	height:70px;
+	border: black 1px solid; 
+	border-top-style: 2px;
+	padding: 5px 5px 5px 5px;
+	margin: 0px 5px 0px 5px;
+}
+
+/* #Content{
+	height: 70px;
+	border: black 2px solid; 
+	margin: 0px 5px 0px 5px;	
+	padding: 5px;
+	} 
+	*/
+
+	#testimonials{
+		height:70px;
+		border: black 1px solid; 
+		border-top-style: 2px;
+		padding: 5px 5px 5px 5px;
+		margin: 0px 5px 0px 5px;
+	}
+
+	#portfolio{
+		height:70px;
+		border: black 1px solid; 
+		border-top-style: 2px;
+		padding: 5px 5px 5px 5px;
+		margin: 0px 5px 0px 5px;
+	}
+
+	#skills{
+		height:70px;
+		border: black 1px solid; 
+		border-top-style: 2px;
+		padding: 5px 5px 5px 5px;
+		margin: 0px 5px 0px 5px;
+	}
+	#Footer{
+		height: 50px;
+		border: black 2px solid; 
+		padding: 5px;	
+		margin-bottom: 10px;
+	}
